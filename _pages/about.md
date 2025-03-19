@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Beijing Institude of Technology</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Beijing Institude of Technology</a>.1120231829@bit.edu.com. (+86)189-2896-1614.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>(+86)189-2896-1614</p>
+    <p>Zhongguancun South Street, Haidian District, Beijing, China</p>
+    <p>Beijing, China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
- My name is zyh. Thanks tz. 111, This is the first attempt. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am a senior undergraduate student majoring in computer science top-tier class at Beijing Institute of Technology. I was fortunate to have the oppotunity to study under Prof. Cheng-liang Chai, who is an excellent teacher, guiding me to the academemic path. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interest includes Multi-Agents, Large Language Models, Database, Data Science, Deep Learning and Machine Learning.
