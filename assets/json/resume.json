@@ -22,27 +22,16 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
+      "organization": "Guangzhou Lingxi Interactive Entertainment Co., Ltd.",
+      "location": "Guangzhou, China",
+      "position": "Algorithm Intern in Technology Middle Platform ",
       "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "startDate": "2024-07-01",
+      "endDate": "2024-08-01",
+      "summary": "Designed, implemented, and optimized algorithms for analyzing user data anomalies. Participated in building and optimizing an advertising revenue prediction model.",
+      "highlights": ["Utilized SQL for efficient data querying, combined with Python and Excel for data cleaning, processing, and visualization. Developed a user activity evaluation system that covered key metrics such as login-to-registration ratio, exposure, conversion rate, and spending, enabling precise identification of system and business anomalies.", "Engaged in the entire process from data selection and feature engineering to algorithm modeling and report writing. By comparing various models, selected the XGBoost model, successfully improving the F1-score on the validation set to 0.73, providing strong support for advertising strategy decisions."]
     }
   ],
   "education": [
@@ -71,93 +60,64 @@
       "date": "2023-03-01",
       "awarder": "Beijing Institute of Technology",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/"
+    },
+    {
+      "title": "First Prize in the National Mathematical Modeling Competition",
+      "date": "2024-11-18",
+      "awarder": "Beijing Mathematical Contest in Modeling",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "name": "CET-6",
+      "date": "2025-02-27",
+      "issuer": "Ministry of Education of the People's Republic of China",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
+      "name": "Doctopus: A System for Budget-aware Structural Data Extraction from Unstructured Documents",
+      "publisher": "Yuanhao Zhong, Yuhao Deng, Chengliang Chai, Ruixin Gu, Ye Yuan, Guoren Wang, Lei Cao",
+      "releaseDate": "2025-03-15",
       "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "summary": "Extracting structured data (e.g., attributes) from unstructured documents is essential for applications like analytical SQL queries and decision-making. To best trade off quality and cost, we present Doctopus, a system designed for accurate and cost-effective attribute extraction."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
+      "name": "QUEST: A Database for Unstructured Document Analysis.",
+      "publisher": "Zequn Li, Yuanhao Zhong, Chengliang Chai, Yuhao Deng, Guoren Wang, Lei Cao",
       "releaseDate": "1905-03-18",
       "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
       "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Python(Sklearn, PyTorch), SQL, C++, C",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Java, Matlab, JavaScript",
+      "level": "skilled",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Git, Gitee, GitHub, GitLab, Docker",
+      "level": "",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Latex, Excel, SPSS",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag"
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -165,42 +125,60 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "Cantonese",
+      "fluency": "Native speaker",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Computer Science",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Multi-agent",
+        "Large Language Models",
+        "Deep Learning",
+        "Machine Learning",
+        "Database"
+      ]
+    },
+    {
+      "name": "Sports",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Table Tennis",
+        "Badminton",
+        "Football",
+        "Snooker",
+        "Tennis"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor Chengliang Chai",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Chai Chengliang is a tenure-track associate professor (Special Researcher) and Ph.D. supervisor at the School of Computer Science, Beijing Institute of Technology. He is a recipient of the CCF Outstanding Doctoral Dissertation Award."
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Doctopus",
+      "summary": "Designed and implemented an efficient data extraction framework that integrates index construction, quality assessment, and dynamic selection strategies to achieve efficient unstructured data extraction under budget constraints.",
+      "highlights": ["Maximized data extraction accuracy within the budget by dynamically selecting attribute extraction schemes, such as OpenIE, PZ, Lotus, and other large models.", "Introduced regression testing and GitHub Actions for continuous integration, adopting a standard workflow for development and issue resolution.", "Independently responsible for project documentation, algorithm design, front-end and back-end development, as well as report and video production. The project was accepted by the SIGMOD 2025 Conference."],
+      "startDate": "2025-01-01",
+      "endDate": "2018-03-01",
+      "url": "https://youtu.be/Cxl_PfvZY10?si=NYoHt2SyD9KHqd6V"
+    },
+    {
+      "name": "CLUE",
+      "summary": "Applied Transformer models such as BERT, RoBERTa, and GPT for sentiment analysis tasks.",
+      "highlights": ["Utilized deep generative models like GPT and T5 for literary language style transformation and generation.", "Employed CycleGAN for style transfer.", "Integrated knowledge graphs to assist in the comprehension of classical literary texts.","Conducted a comprehensive evaluation of the model's capability in literary language understanding across multiple dimensions, ultimately achieving a top 10 ranking in the evaluation."],
+      "startDate": "2025-03-01",
+      "endDate": "2025-06-17",
+      "url": "https://youtu.be/Cxl_PfvZY10?si=NYoHt2SyD9KHqd6V"
     }
   ]
 }
